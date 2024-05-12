@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm an industrial automation engineer by trade, specialising in industry 4.0/smart factory systems. However by night I love to mix cars and programming.
+
+![Stat A](https://github-readme-stats.vercel.app/api?username=rhysmorgan134&show_icons=true&include_all_commits=true&count_private=true)
+![Stat C](https://github-readme-stats.vercel.app/api/top-langs/?username=rhysmorgan134&show_icons=true&layout=compact)
 
 <!--
 **rhysmorgan134/rhysmorgan134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
